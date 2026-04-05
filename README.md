@@ -1,1 +1,1 @@
-# FridgeAI
+# FridgeAI-Group
